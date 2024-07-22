@@ -94,8 +94,3 @@ h1:focus {
 .modal-footer {
     border: none; /* Remove borders */
 }
-
-.no-border {
-    border: none;
-    background-color: transparent;
-}
