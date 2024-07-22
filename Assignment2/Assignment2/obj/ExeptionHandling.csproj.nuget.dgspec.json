@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nidaa\\OneDrive\\Desktop\\Assignment2\\Assignment2\\ExeptionHandling.csproj": {}
+    "C:\\Users\\nidaa\\OneDrive\\Desktop\\C#\\NEW\\Assignments\\CPRG-211-Assignment-2\\Assignment2\\Assignment2\\ExeptionHandling.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nidaa\\OneDrive\\Desktop\\Assignment2\\Assignment2\\ExeptionHandling.csproj": {
+    "C:\\Users\\nidaa\\OneDrive\\Desktop\\C#\\NEW\\Assignments\\CPRG-211-Assignment-2\\Assignment2\\Assignment2\\ExeptionHandling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nidaa\\OneDrive\\Desktop\\Assignment2\\Assignment2\\ExeptionHandling.csproj",
+        "projectUniqueName": "C:\\Users\\nidaa\\OneDrive\\Desktop\\C#\\NEW\\Assignments\\CPRG-211-Assignment-2\\Assignment2\\Assignment2\\ExeptionHandling.csproj",
         "projectName": "ExeptionHandling",
-        "projectPath": "C:\\Users\\nidaa\\OneDrive\\Desktop\\Assignment2\\Assignment2\\ExeptionHandling.csproj",
+        "projectPath": "C:\\Users\\nidaa\\OneDrive\\Desktop\\C#\\NEW\\Assignments\\CPRG-211-Assignment-2\\Assignment2\\Assignment2\\ExeptionHandling.csproj",
         "packagesPath": "C:\\Users\\nidaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nidaa\\OneDrive\\Desktop\\Assignment2\\Assignment2\\obj\\",
+        "outputPath": "C:\\Users\\nidaa\\OneDrive\\Desktop\\C#\\NEW\\Assignments\\CPRG-211-Assignment-2\\Assignment2\\Assignment2\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

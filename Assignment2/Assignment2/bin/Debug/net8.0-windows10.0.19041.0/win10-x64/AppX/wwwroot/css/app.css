@@ -85,3 +85,17 @@ h1:focus {
     }
 }
 
+.modal-content {
+    border: none; /* Remove borders */
+}
+
+.modal-header,
+.modal-body,
+.modal-footer {
+    border: none; /* Remove borders */
+}
+
+.no-border {
+    border: none;
+    background-color: transparent;
+}

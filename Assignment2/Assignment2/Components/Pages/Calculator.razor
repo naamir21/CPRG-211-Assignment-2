@@ -57,10 +57,14 @@
 		<div class="modal fade show" style="display:block;" aria-model="true" tabindex="-1">
 			<div class="modal-dialog">
 				<div class="modal-content bg-dark text-white">
-					<p class="modal-title" style="margin-left: 30px; margin-top: 20px; font-weight: bold;">0.0.0.0 says</p>
-					<p style="margin-left: 30px; margin-top:10px;">@errorMessage</p>
-					<div>
-						<button style="margin-left: 400px; margin-bottom: 20px;" type="button" class="btn btn-primary" @onclick="Clear">OK</button>
+					<div style="padding-left: 17px; padding-right: 17px; padding-top: 17px;">
+						<p class="modal-title" style="font-weight: bold;">0.0.0.0 says</p>
+					</div>
+					<div style="padding-left: 17px; padding-right: 17px; padding-top: 10px;">
+						<p>@errorMessage</p>
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-primary" @onclick="Clear">OK</button>
 					</div>
 				</div>
 			</div>
